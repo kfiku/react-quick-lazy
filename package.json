@@ -1,0 +1,32 @@
+{
+  "name": "react-quick-lazy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Grzegorz Klimek",
+    "email": "kfiku.com@gmail.com",
+    "url": "https://github.com/kfiku"
+  },
+  "keywords": [
+    "react",
+    "lazy",
+    "suspense",
+    "hook",
+    "hooks",
+    "query",
+    "async"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiku/react-quick-lazy.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfiku/react-quick-lazy/issues"
+  },
+  "homepage": "https://github.com/kfiku/react-quick-lazy#readme"
+}
